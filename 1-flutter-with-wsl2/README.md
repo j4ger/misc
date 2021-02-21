@@ -182,6 +182,8 @@ start_socat
 
 重开一个终端，此时 socat 应该已经在后台准备好了。
 
+假如想停止 socat 服务，只需要在终端执行 `stop_socat`。
+
 ```console
 cd helloworld
 # 记得改成你选用的端口
