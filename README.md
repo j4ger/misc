@@ -1,10 +1,9 @@
-# 关于 About
+# 关于
 
 记录一些杂七杂八的东西
-Miscellaneous stuff
 
-# 篇章 Chapters
+# 篇章
 
-## 1.在 WSL2 中开发 FLutter 应用 Setup Flutter Environment in WSL2
+## 1.在 wsl2 中开发 flutter 应用
 
 [Github](/1-flutter-with-wsl2)
